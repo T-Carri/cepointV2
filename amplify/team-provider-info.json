@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cepointaws-dev-102339-authRole",
+      "UnauthRoleArn": "arn:aws:iam::871815358324:role/amplify-cepointaws-dev-102339-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::871815358324:role/amplify-cepointaws-dev-102339-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-cepointaws-dev-102339-deployment",
+      "UnauthRoleName": "amplify-cepointaws-dev-102339-unauthRole",
+      "StackName": "amplify-cepointaws-dev-102339",
+      "StackId": "arn:aws:cloudformation:us-west-1:871815358324:stack/amplify-cepointaws-dev-102339/ab46ef90-8082-11ed-b4e8-06e24d5db79b",
+      "AmplifyAppId": "d13fge62etgevq"
+    },
+    "categories": {
+      "auth": {
+        "cepointawsd769098f": {}
+      },
+      "api": {
+        "cepointaws": {}
+      }
+    }
+  }
+}
