@@ -10,6 +10,7 @@ import awsExports from './aws-exports';
 import { NavbarCepoint } from './perfil/NavbarCepoint';
 import { GreyBar } from './componentes/GreyBar';
 import { WhiteBoard } from './componentes/WhiteBoard';
+import { Button } from 'react-bootstrap';
 //import Login from './Login';
 
 //import {BrowserRouter as Router, Route, Routes} from 'react-router-dom'
@@ -62,7 +63,7 @@ function App() {
   <GreyBar/>
 
  <WhiteBoard props={user}/>
-
+<Button onClick={signOut}>SALIR</Button>
 </Grid>
 </ThemeProvider>
 
